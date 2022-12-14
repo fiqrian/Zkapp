@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/fiqrian/Zkapp.git/static/css/main.c088a03d.css",
-    "main.js": "/fiqrian/Zkapp.git/static/js/main.d68d8179.js",
-    "index.html": "/fiqrian/Zkapp.git/index.html",
-    "main.c088a03d.css.map": "/fiqrian/Zkapp.git/static/css/main.c088a03d.css.map",
-    "main.d68d8179.js.map": "/fiqrian/Zkapp.git/static/js/main.d68d8179.js.map"
+    "main.css": "/Zkapp/static/css/main.c088a03d.css",
+    "main.js": "/Zkapp/static/js/main.d68d8179.js",
+    "index.html": "/Zkapp/index.html",
+    "main.c088a03d.css.map": "/Zkapp/static/css/main.c088a03d.css.map",
+    "main.d68d8179.js.map": "/Zkapp/static/js/main.d68d8179.js.map"
   },
   "entrypoints": [
     "static/css/main.c088a03d.css",

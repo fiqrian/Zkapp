@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fiqrian/Zkapp.git/static/css/main.c088a03d.css",
+    "main.js": "/fiqrian/Zkapp.git/static/js/main.d68d8179.js",
+    "index.html": "/fiqrian/Zkapp.git/index.html",
+    "main.c088a03d.css.map": "/fiqrian/Zkapp.git/static/css/main.c088a03d.css.map",
+    "main.d68d8179.js.map": "/fiqrian/Zkapp.git/static/js/main.d68d8179.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c088a03d.css",
+    "static/js/main.d68d8179.js"
+  ]
+}
